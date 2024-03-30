@@ -2,7 +2,11 @@
 # FireSink - Your All-in-One File Storage Solution
 
 
+
+
 FireSink is a robust file storage solution built with Next.js and TypeScript. It allows you to store all types of files (JPEG, PNG, DOCs, PPTX, MP4, etc.) with their timestamps of creation. It also provides the functionality to perform CRUD operations on them.
+
+![Firesink](assets/HomepageDemo.png)
 
 ## Features
 
