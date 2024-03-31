@@ -32,6 +32,8 @@ FireSink is a robust file storage solution built with Next.js and TypeScript. It
 
 First, run the development server:
 
+[Watch the video](assets/demoVideo.mp4)
+
 ```bash
 npm run dev
 # or
