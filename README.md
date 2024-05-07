@@ -28,6 +28,10 @@ FireSink is a robust file storage solution built with Next.js and TypeScript. It
 - Clerk
 - Zustand
 
+## Architecture
+![image](https://github.com/adarshlkdev/Firesink/assets/129508819/723f9c9c-2c2d-4600-bb9e-e79038493e6a)
+
+
 ## Getting Started
 
 First, run the development server:
